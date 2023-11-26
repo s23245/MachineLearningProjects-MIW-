@@ -1,0 +1,5 @@
+test_acc_model1 =  0.984000027179718
+
+test_acc_model2 =  0.9905999898910522
+
+test_acc_model3 =  0.9909999966621399
